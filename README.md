@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Tazeen Zahra</h1>
 <h3 align="center">🚀 A self-driven Flutter Developer building real-world mobile apps with Firebase, Dart, and Clean Architecture</h3>
 
