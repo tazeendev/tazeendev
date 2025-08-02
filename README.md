@@ -23,10 +23,20 @@
 </p>
 
 ---
+### 🔨 Projects
 
-### 🔨 Projects:
-- [🛒 Grocery App](https://github.com/tazeendev/grocery_app) – A fully functional grocery shopping app built in Flutter with responsive UI, search, filters, and more.
-- [💬 WhatsApp UI Clone](#) – A beautiful UI clone of WhatsApp with dark/light theme switch.
+- 🛒 [**Grocery App**](https://github.com/tazeendev/grocery_app)  
+  A fully functional grocery shopping app built with Flutter. Features include responsive UI, search, filtering, category navigation, and product detail pages.
+
+- 💬 [**WhatsApp UI Clone**](#)  
+  A sleek UI clone of WhatsApp, built with Flutter. Supports dark/light mode toggle and is fully responsive.
+
+- 👗 [**Fashion App**](#)  
+  A stylish fashion shopping app UI created using Flutter. Includes modern layout, category browsing, and elegant product cards.
+
+- 🩺 [**Doctor Consultation App**](#)  
+  A healthcare app interface for doctor appointments. Built in Flutter, featuring doctor listings, appointment booking UI, and clean design.
+
 
 ---
 
@@ -38,10 +48,13 @@
 
 ---
 
-### 📫 Connect With Me:
-- Email: [tazeendev@gmail.com](mailto:tazeenzahrabatool@gmail.com)
-- LinkedIn: [linkedin.com/in/tazeendev](www.linkedin.com/in/tazeen-zahra-batool-9956652a6)
-- GitHub: [github.com/tazeendev](https://github.com/tazeendev)
+### 📫 Connect With Me
+
+- 📧 **Email:** [tazeenzahrabatool@gmail.com](mailto:tazeenzahrabatool@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/tazeen-zahra-batool-9956652a6](https://www.linkedin.com/in/tazeen-zahra-batool-9956652a6)  
+- 🧑‍💻 **GitHub:** [github.com/tazeendev](https://github.com/tazeendev)  
+- 📸 **Instagram:** [instagram.com/tazeen.dev](https://www.instagram.com/tazeen.dev?igsh=MWJ2cHgxNHc2ZDhxbw==)
+
 
 ---
 
