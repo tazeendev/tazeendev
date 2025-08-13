@@ -68,8 +68,9 @@ I’m passionate about **clean architecture, smooth UI/UX, and performance optim
 
 ### 💬 Daily Quote
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.+–+Steve+Jobs;Success+is+not+final,+failure+is+not+fatal:+It+is+the+courage+to+continue+that+counts.+–+Winston+Churchill;Believe+you+can+and+you're+halfway+there.+–+Theodore+Roosevelt" alt="Daily Quote Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=920&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.+–+Steve+Jobs;Success+is+not+final,+failure+is+not+fatal:+It+is+the+courage+to+continue+that+counts.+–+Winston+Churchill;Believe+you+can+and+you're+halfway+there.+–+Theodore+Roosevelt" alt="Daily Quote Typing Animation"/>
 </p>
+
 
 
 ---
