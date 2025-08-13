@@ -61,11 +61,10 @@ A healthcare app UI for booking doctor appointments with **clean interface**.
 </p>
 
 ---
+## 🎮 Play the Game
 
-### 🎮 Pac-Man Contribution Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman.svg" alt="Pac-Man animation" />
-</p>
+[Click here to play Pac-Man](https://tazeendev.github.io/pacman-game/)
+
 
 ---
 
