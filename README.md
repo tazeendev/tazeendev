@@ -8,21 +8,33 @@
 
 ### ✨ About Me
 
-Hey there! I'm Tazeen Zahra, a passionate **Computer Science student** at Gomal University, Pakistan 🇵🇰. My journey into mobile development started with a fascination for creating smooth, intuitive user experiences, which led me straight to **Flutter**. I thrive on turning complex problems into elegant, high-performance applications. I'm actively seeking **internship** and **freelance** opportunities where I can contribute to meaningful projects and continue to grow as a developer.
+Hey there! I'm Tazeen Zahra, a passionate **Computer Science student** at Gomal University, Pakistan 🇵🇰. I thrive on turning complex problems into elegant, high-performance applications and love creating **fun, interactive projects**, including games!  
+
+---
+
+### 🎮 Fun Corner
+
+**Play My Pac-Man Game:**  
+<p align="center">
+  <b><a href="https://tazeendev.github.io/pacman-game/">Click Here to Play Pac-Man 👾</a></b>
+</p>
+
+**Daily Quote:**  
+<p align="center">
+  <i>"The only way to do great work is to love what you do." – Steve Jobs</i>
+</p>
 
 ---
 
 ### 💡 My Development Philosophy
 
-I believe that great software is not just about writing code that works, but about building systems that are robust, maintainable, and a joy to use. My approach is centered around:
-
--   **Clean Architecture:** Structuring code in a way that is scalable, testable, and independent of UI, frameworks, and databases.
--   **User-Centric Design:** Placing the user experience at the forefront of every feature I build.
--   **Performance Optimization:** Writing efficient Dart code and leveraging Flutter's capabilities to ensure apps are fast and responsive.
+- **Clean Architecture:** Code that’s scalable, testable, and maintainable.  
+- **User-Centric Design:** Focused on smooth, intuitive user experiences.  
+- **Performance Optimization:** Leveraging Flutter and Dart to build fast apps.  
 
 ---
 
-### 🚀 My Tech Arsenal
+### 🚀 Tech Stack
 
 <p align="center">
   <table align="center">
@@ -55,39 +67,36 @@ I believe that great software is not just about writing code that works, but abo
 
 ---
 
-### 🎯 Current Focus & Learning Goals
-
-I'm a firm believer in lifelong learning. Currently, I am deepening my expertise in:
--   **Advanced State Management:** Mastering **BLoC** and **Provider** for complex application states.
--   **App Performance:** Diving deep into Flutter's rendering pipeline and Dart's concurrency model to optimize app speed.
--   **Native Integrations:** Exploring platform channels to bridge Flutter with native iOS and Android features.
-
----
-
 ### 🔨 Featured Projects
 
 | Project                                                      | Description                                                                                              | Tech Used                                                   |
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 🛒 [**Grocery App**](https://github.com/tazeendev/grocery_app) | A functional shopping app with a responsive UI, search, and category navigation.                         | `Flutter`, `Dart`, `GetX`, `Responsive UI`                    |
-| 🛠️ [**Services App**](https://github.com/tazeendev/services_app) | A multi-service booking platform with real-time updates and user authentication.                         | `Flutter`, `Firebase Auth`, `Firebase Realtime DB`, `GetX`    |
-| ⚡ [**RapidIt App**](https://github.com/tazeendev/rapidit_app)  | A productivity app featuring instant task creation, priority levels, and smooth animations.              | `Flutter`, `SQLite`, `Animations`                             |
-| 😂 [**Random Joke App**](https://github.com/tazeendev/random_joke_app) | A fun app that fetches jokes from a REST API with loading indicators.                                    | `Flutter`, `REST API`, `HTTP`, `Animations`                   |
-| 💬 [**WhatsApp UI Clone**](#)                                 | A sleek WhatsApp-inspired UI clone supporting both dark and light themes.                                | `Flutter`, `Responsive Layout`                                |
-| 🩺 [**Doctor Consultation App**](#)                           | A clean healthcare app UI for booking doctor appointments.                                               | `Flutter`, `UI/UX Design`                                     |
-
+| 🛒 [Grocery App](https://github.com/tazeendev/grocery_app)   | Functional shopping app with responsive UI, search, and category navigation.                              | Flutter, Dart, GetX                                        |
+| 🛠️ [Services App](https://github.com/tazeendev/services_app)| Multi-service booking platform with real-time updates and authentication.                                 | Flutter, Firebase, GetX                                     |
+| ⚡ [RapidIt App](https://github.com/tazeendev/rapidit_app)  | Productivity app with task creation, priority levels, and animations.                                     | Flutter, SQLite, Animations                                  |
+| 😂 [Random Joke App](https://github.com/tazeendev/random_joke_app)| Fetches jokes from REST API with loading indicators.                                                     | Flutter, REST API, HTTP                                      |
+| 💬 [WhatsApp UI Clone](#)                                     | Sleek WhatsApp-inspired UI supporting dark & light themes.                                               | Flutter, Responsive Layout                                   |
+| 🩺 [Doctor Consultation App](#)                               | Healthcare app UI for booking doctor appointments.                                                      | Flutter, UI/UX Design                                       |
 
 ---
 
-### 📊 My GitHub Journey
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tazeendev&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazeendev&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
+---
+
+### 🏆 Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tazeendev&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tazeendev&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
+
+---
+
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/tazeendev/tazeendev/blob/output/github-contribution-grid-snake.svg" alt="Tazeen's Contribution Snake"/>
@@ -95,29 +104,11 @@ I'm a firm believer in lifelong learning. Currently, I am deepening my expertise
 
 ---
 
-### 🎲 Just for Fun
-
-<p align="center">
-  Ready for a challenge? <br>
-  <b><a href="https://tazeendev.github.io/pacman-game/">Click here to play Pac-Man</a></b>
-</p>
-
----
-
-### 😂 Daily Dev Dose
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=00F0FF" alt="Random Dev Joke"/>
-</p>
-
----
-
-### 📫 Let's Connect!
-
-I'm always open to connecting with fellow developers, students, and potential employers. Feel free to reach out!
+### 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:tazeenzahrabatool@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tazeen-zahra-batool-9956652a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/tazeendev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/tazeen.dev?igsh=MWJ2cHgxNHc2ZDhxbw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/tazeen.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
