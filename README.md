@@ -69,8 +69,9 @@ I’m passionate about **clean architecture, smooth UI/UX, and performance optim
 ### 💬 Daily Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.”+–+Steve+Jobs" alt= " Daily Quote Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.+–+Steve+Jobs" alt="Daily Quote Typing Animation"/>
 </p>
+
 
 ---
 
