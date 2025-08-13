@@ -16,18 +16,31 @@ I’m passionate about **clean architecture, smooth UI/UX, and performance optim
 
 ### 🚀 Skills / Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/GetX-3DDB85?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Provider-0175C2?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/BLoC-1A237E?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+<div align="center">
+  <h4>Languages & Frameworks</h4>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <br><br>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</div>
+
+<div align="center">
+  <h4>State Management</h4>
+  <img src="https://img.shields.io/badge/GetX-3DDB85?style=for-the-badge"/> <br><br>
+  <img src="https://img.shields.io/badge/Provider-0175C2?style=for-the-badge"/> <br><br>
+  <img src="https://img.shields.io/badge/BLoC-1A237E?style=for-the-badge"/>
+</div>
+
+<div align="center">
+  <h4>Backend & Database</h4>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <br><br>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <br><br>
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/>
+</div>
+
+<div align="center">
+  <h4>Tools & Principles</h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br><br>
   <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
@@ -53,16 +66,10 @@ I’m passionate about **clean architecture, smooth UI/UX, and performance optim
 
 ### 🎉 Fun Facts About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Coffee%20Lover-%E2%98%95-blue?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Night%20Coder-%F0%9F%97%99-purple?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Tech%20Explorer-%E2%9C%A8-orange?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Logic%20Addict-%F0%9F%92%BB-red?style=for-the-badge"/> 
-</p>
-
 - I can write a Flutter app faster than brewing a cup of tea ☕  
 - Love solving tricky algorithm challenges late at night 🌙  
 - Always exploring **new technologies, UI patterns, and animations** ✨  
+- Coffee fuels my coding sessions, but logic keeps me awake 💻  
 
 ---
 
@@ -77,19 +84,12 @@ I’m passionate about **clean architecture, smooth UI/UX, and performance optim
 ### 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tazeendev&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tazeendev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_streak=true" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tazeendev&theme=radical&no-frame=true&margin-w=15&margin-h=15" height="160"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tazeendev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_streak=true" height="180"/>
-</p>
-
 
 ---
 
