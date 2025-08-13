@@ -69,7 +69,7 @@ I’m passionate about **clean architecture, smooth UI/UX, and performance optim
 ### 💬 Daily Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.”+–+Steve+Jobs" alt="Daily Quote Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.”+–+Steve+Jobs" alt= " Daily Quote Typing Animation"/>
 </p>
 
 ---
@@ -86,13 +86,10 @@ I’m passionate about **clean architecture, smooth UI/UX, and performance optim
 
 ---
 
-### 📈 Contribution Graph & Streak
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tazeendev&theme=react-dark&hide_border=false" height="180"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tazeendev&theme=radical" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tazeendev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_streak=true" height="180"/>
 </p>
+
 
 ---
 
