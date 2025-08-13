@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tazeen+Zahra;Computer+Science+Student+%F0%9F%92%BB;Flutter+Developer+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Tazeen+Zahra;Computer+Science+Student+%F0%9F%92%BB;Flutter+Developer+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
 
-<h3 align="center">A self-driven Flutter Developer building beautiful, scalable, and real-world mobile applications.</h3>
+<h3 align="center">Building scalable, high-performance mobile apps with Flutter & Dart.</h3>
 
 ---
 
 ### ✨ About Me
 
-Hey! I'm **Tazeen Zahra**, a Computer Science student at Gomal University, Pakistan 🇵🇰. I love building **interactive and high-performance apps**, exploring Flutter, Firebase, and Clean Architecture.  
+Hi! I'm **Tazeen Zahra**, a Computer Science student at **Gomal University, Pakistan 🇵🇰**.  
+I love turning complex problems into **beautiful, functional apps** using Flutter and Firebase.  
+I’m passionate about **clean architecture, smooth UI/UX, and performance optimization**.  
 
 ---
 
@@ -58,20 +60,19 @@ Hey! I'm **Tazeen Zahra**, a Computer Science student at Gomal University, Pakis
 
 ---
 
-### 🎮 Fun Corner
+### 🎉 Fun Facts About Me
 
-- **Pac-Man Game:**  
+- I can write a Flutter app faster than brewing a cup of tea ☕  
+- I love solving tricky algorithm challenges late at night 🌙  
+- Coffee fuels my coding sessions, but logic keeps me awake ☕💻  
+- Always exploring **new technologies, UI patterns, and animation tricks** ✨  
+
+---
+
+### 💬 Daily Quote
+
 <p align="center">
-  <b><a href="https://tazeendev.github.io/pacman-game/" target="_blank">👾 Play Pac-Man Now!</a></b>
-</p>
-
-- **Fun Facts:**  
-  - I can code a Flutter app faster than making tea ☕  
-  - Always exploring new technologies and creative UI ideas  
-
-- **Daily Quote:**  
-<p align="center">
-  <i>"The only way to do great work is to love what you do." – Steve Jobs</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.”+–+Steve+Jobs" alt="Daily Quote Typing Animation"/>
 </p>
 
 ---
@@ -92,10 +93,12 @@ Hey! I'm **Tazeen Zahra**, a Computer Science student at Gomal University, Pakis
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Graph & Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tazeendev&theme=react-dark" height="180"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tazeendev&theme=react-dark&hide_border=false" height="180"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tazeendev&theme=radical" height="140"/>
 </p>
 
 ---
