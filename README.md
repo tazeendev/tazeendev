@@ -1,237 +1,131 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=500&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Tazeen+Zahra;AI+%7C+Computer+Vision+Researcher;Machine+Learning+Engineer;Robotics+%26+Autonomous+Systems+Enthusiast;Deep+Learning+Explorer" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Tazeen+Zahra;Computer+Science+Student+%7C+AI+%26+Computer+Vision+Researcher;Passionate+about+Robotics+%26+Autonomous+Systems" alt="Typing Animation"/>
 </p>
 
 <h3 align="center">
-Building intelligent systems with Artificial Intelligence, Computer Vision, Robotics, and Deep Learning.
+Building intelligent perception systems for autonomous vehicles, robotics, and real-world AI applications.
 </h3>
 
+<div align="center">
+  <a href="https://github.com/tazeendev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/tazeen-zahra-batool-9956652a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:tazeenzahrabatool@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
+
 ---
 
-# 👩‍💻 About Me
+## 👩‍🔬 About Me
 
-I'm **Tazeen Zahra**, a **Computer Science student** at **Gomal University, Pakistan 🇵🇰**.
+I am **Tazeen Zahra**, a **Computer Science student** at **Gomal University, Pakistan 🇵🇰**, with a strong focus on **Artificial Intelligence**, **Computer Vision**, and **Autonomous Systems**.
 
-My research interests include
+My research interests center on developing robust perception systems for real-world deployment:
+- **Bird's Eye View (BEV) Perception** for autonomous driving
+- **Multi-modal sensor fusion** and 3D scene understanding
+- **Real-time Object Detection** and Semantic Segmentation
+- **Vision Transformers**, Diffusion Models, and Large Vision Models
+- **Robotics** and **Reinforcement Learning** for autonomous agents
 
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🧠 Deep Learning
-- 📡 Autonomous Systems
-- 🚁 Robotics
-- 📊 Machine Learning
-- 🔬 AI Research
+I am actively building production-ready Computer Vision pipelines using **PyTorch**, **OpenCV**, and modern deep learning frameworks. My goal is to contribute to cutting-edge research and transition into an **AI Research Engineer** role specializing in **Computer Vision** and **Robotics**.
 
-Currently learning and building projects involving:
+**Open to research collaborations, internships, and full-time opportunities in AI/CV.**
 
+---
+
+## 🚀 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Computer Vision & Robotics
+- YOLO Series (Object Detection)
 - Bird's Eye View (BEV) Perception
-- Object Detection (YOLO)
-- CNNs
-- PyTorch
-- TensorFlow
-- OpenCV
-- Autonomous Driving
-- AI Research
+- CNNs & Vision Transformers (ViTs)
+- Image Processing & Semantic Segmentation
+- nuScenes Dataset & Multi-Camera Systems
+- Motion Planning & Sensor Fusion
 
-My goal is to become an **AI Research Engineer** specializing in **Computer Vision, Robotics, and Autonomous Systems**.
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# 🚀 Tech Stack
+## 🌱 Currently Learning & Exploring
+- Advanced Deep Learning Architectures
+- BEVFormer & DETR-based Models
+- Vision-Language Models (CLIP, LLaVA)
+- Reinforcement Learning for Robotics
+- Research Paper Implementation & Reproducibility
+- Explainable AI & Medical Imaging Applications
 
-## Programming Languages
+---
+
+## 🔬 Featured Projects
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|------------|------------|
+| **BEV Perception** | Implementation and exploration of Bird's Eye View perception techniques using nuScenes dataset for autonomous driving. | PyTorch, Jupyter, nuScenes | [BEV_Perception](https://github.com/tazeendev/BEV_Perception) |
+| **YOLO Object Detection** | Real-time object detection pipelines with modern YOLO models. | YOLO, OpenCV, PyTorch | [Object_Detection](https://github.com/tazeendev/Object_Detection) |
+| **OpenCV & Vision Experiments** | Core Computer Vision techniques, image processing, and preprocessing pipelines. | OpenCV, NumPy, Matplotlib | [open_cv](https://github.com/tazeendev/open_cv) |
+| **PyTorch Fundamentals** | Deep learning model implementations and training experiments. | PyTorch, CNNs | [pytorch](https://github.com/tazeendev/pytorch) |
+| **nuScenes BEV Exploration** | Hands-on work with nuScenes mini dataset for BEV tasks. | Jupyter, Python | [Nuscenes_Mini-_and-_BEV](https://github.com/tazeendev/Nuscenes_Mini-_and-_BEV) |
+
+**Additional projects**: Recommendation systems, spam detection, data analysis notebooks (NumPy, Pandas, Seaborn, Matplotlib), and several Flutter mobile applications.
+
+---
+
+## 📖 Research Papers & Topics I'm Actively Studying
+- **Attention Is All You Need** (Transformers)
+- **YOLO Series**, **DETR**, **RT-DETR**
+- **BEVFormer**, **ResNet**, **U-Net**, **DINOv2**
+- **Segment Anything (SAM)**, **CLIP**, **Vision Transformers**
+- Topics: 3D Scene Understanding, Multi-Modal AI, Explainable AI, AI for Robotics
+
+---
+
+## 🎯 2026 Goals
+- Publish first-author or co-author research in AI/CV venues
+- Contribute to open-source Computer Vision projects
+- Secure AI Research Internship or position
+- Build a strong portfolio of end-to-end autonomous perception systems
+- Participate in Kaggle competitions and research challenges
+- Master advanced topics in Robotics and Reinforcement Learning
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tazeendev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tazeendev&theme=tokyonight" alt="Streak Stats"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,dart"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazeendev&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-## AI / Machine Learning
+> **"The best way to predict the future is to invent it."** — Alan Kay
+
+---
+
+<div align="center">
+  <strong>Let's connect and build the future of intelligent systems together!</strong>
+</div>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-
-</p>
-
----
-
-## Robotics & Computer Vision
-
-- OpenCV
-- CNNs
-- YOLO
-- Image Processing
-- Object Detection
-- Semantic Segmentation
-- Bird's Eye View Perception
-- Multi-Camera Vision
-- Sensor Fusion (Learning)
-- Autonomous Driving
-
----
-
-## Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Deep Learning
-- PyTorch
-- Computer Vision
-- Robotics
-- Autonomous Systems
-- Reinforcement Learning
-- Vision Transformers (ViTs)
-- BEVFormer
-- Diffusion Models
-- Large Vision Models
-- AI Research Methodology
-- Research Paper Reading
-
----
-
-# 🔬 Current Research Interests
-
-- Computer Vision
-- Deep Learning
-- Robotics
-- Autonomous Vehicles
-- 3D Scene Understanding
-- Vision-Language Models
-- Multi-Modal AI
-- Medical Imaging
-- Explainable AI
-- AI for Robotics
-
----
-
-# 🚀 Current Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚗 Bird's Eye View Perception | Learning BEV perception using the nuScenes dataset |
-| 👁️ YOLO Object Detection | Real-time object detection with YOLO |
-| 🧠 CNN Image Classification | Deep Learning image classification models |
-| 📚 AI Research Notes | Research paper summaries and implementations |
-| 🤖 Robotics Algorithms | Motion planning and perception experiments |
-
----
-
-# 📖 Research Papers I'm Studying
-
-- Attention Is All You Need
-- ResNet
-- AlexNet
-- VGGNet
-- U-Net
-- YOLO Series
-- BEVFormer
-- DETR
-- Segment Anything (SAM)
-- CLIP
-- DINOv2
-- Vision Transformers
-- RT-DETR
-
----
-
-# 🎯 2026 Goals
-
-- Publish AI research
-- Build a Computer Vision portfolio
-- Master PyTorch
-- Contribute to Open Source AI
-- Participate in Kaggle competitions
-- Secure an AI Research Internship
-- Learn Robotics and Autonomous Systems
-- Read 100+ research papers
-- Build end-to-end Computer Vision projects
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tazeendev&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tazeendev&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazeendev&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tazeendev&theme=algolia&margin-w=10"/>
-
-</p>
-
----
-
-# 💡 Favorite Quote
-
-> "The best way to predict the future is to invent it."
-
-— Alan Kay
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:tazeenzahrabatool@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tazeen-zahra-batool-9956652a6">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tazeendev">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ "Building the future with AI, Computer Vision, and Robotics."
-
+  <strong>Available for research collaborations and opportunities in AI, Computer Vision, and Robotics.</strong>
 </p>
