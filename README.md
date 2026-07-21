@@ -114,7 +114,17 @@ I am actively building production-ready Computer Vision pipelines using **PyTorc
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazeendev&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+--
+## GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tazeendev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=tazeendev&theme=tokyonight" alt="Streak Stats" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazeendev&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+</p>
 ---
 
 > **"The best way to predict the future is to invent it."** — Alan Kay
