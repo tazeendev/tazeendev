@@ -106,9 +106,9 @@ I am actively building production-ready Computer Vision pipelines using **PyTorc
 ---
 
 ## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazeendev&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tazeendev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=tazeendev&theme=tokyonight" alt="Streak Stats" />
 </p>
 ---
 
