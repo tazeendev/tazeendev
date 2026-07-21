@@ -14,7 +14,7 @@ Building intelligent perception systems for autonomous vehicles, robotics, and r
 
 ---
 
-## 👩‍🔬 About Me
+## About Me
 
 I am **Tazeen Zahra**, a **Computer Science student** at **Gomal University, Pakistan 🇵🇰**, with a strong focus on **Artificial Intelligence**, **Computer Vision**, and **Autonomous Systems**.
 
@@ -31,7 +31,7 @@ I am actively building production-ready Computer Vision pipelines using **PyTorc
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,7 +62,7 @@ I am actively building production-ready Computer Vision pipelines using **PyTorc
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## Currently Learning & Exploring
 - Advanced Deep Learning Architectures
 - BEVFormer & DETR-based Models
 - Vision-Language Models (CLIP, LLaVA)
@@ -72,7 +72,7 @@ I am actively building production-ready Computer Vision pipelines using **PyTorc
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|------------|------------|
@@ -86,7 +86,7 @@ I am actively building production-ready Computer Vision pipelines using **PyTorc
 
 ---
 
-## 📖 Research Papers & Topics I'm Actively Studying
+## Research Papers & Topics I'm Actively Studying
 - **Attention Is All You Need** (Transformers)
 - **YOLO Series**, **DETR**, **RT-DETR**
 - **BEVFormer**, **ResNet**, **U-Net**, **DINOv2**
@@ -95,7 +95,7 @@ I am actively building production-ready Computer Vision pipelines using **PyTorc
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 - Publish first-author or co-author research in AI/CV venues
 - Contribute to open-source Computer Vision projects
 - Secure AI Research Internship or position
@@ -105,7 +105,7 @@ I am actively building production-ready Computer Vision pipelines using **PyTorc
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tazeendev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
